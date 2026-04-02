@@ -1,11 +1,14 @@
 ---
-layout: archive
-title: "Gallery"
-permalink: /gallery/
 layout: splash
+title: ""
+permalink: /news/
 classes: wide
 author_profile: false
 ---
+
+<div style="text-align:center; font-size:2.2em; font-weight:700; margin-bottom:30px;">
+Gallery
+</div>
 
 
 <hr style="border: 2px solid #bbb;">
