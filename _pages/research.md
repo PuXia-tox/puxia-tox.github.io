@@ -1,10 +1,12 @@
 ---
-title: "Research"
-permalink: /research/
 layout: splash
+title: ""
+permalink: /news/
 classes: wide
 author_profile: false
 ---
+
+<h1 align="center">Research</h1>
 
 # Research
 
