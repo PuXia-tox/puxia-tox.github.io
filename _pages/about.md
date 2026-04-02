@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Systems Hazard Assessment & Risk Prediction (SHARP Lab)"
+title: "Systems Hazard Assessment & Risk Prediction (SHARP)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 ## Welcome to the SHARP Lab
 <p align="center">
-<img src="/images/Group Photo-1.jpg" width="1000">
+<img src="/images/Front.png" width="1000">
 </p>
 
 ## *From hidden clues to elegant views.*
