@@ -10,19 +10,20 @@ author_profile: false
 Members
 </div>
 
+
 <hr style="border: 1px solid #bbb;">
 
+<table width="100%" style="border: none;">
+<tr valign="top">
+<td width="26%" style="border: none;">
+<img src="/images/portrait.jpg" width="220">
+</td>
 <td width="74%" style="border: none;">
 <h2 style="font-size: 34px; margin-top: 0;">Pu Xia</h2>
+<p style="font-size: 18px;">Assistant Professor (2023–)</p>
+<p style="font-size: 18px;">School of Biosciences, University of Birmingham</p>
+<p style="font-size: 18px;">Email: <a href="mailto:p.xia@bham.ac.uk">p.xia@bham.ac.uk</a></p>
 
-<p style="font-size: 18px;">
-Assistant Professor in Precision Toxicology (2023–)<br>
-School of Biosciences, University of Birmingham<br>
-CERJ Theme Leader – Combatting Pollution
-</p>
-
-<p style="font-size: 18px;">
-✉️ <a href="mailto:p.xia@bham.ac.uk">p.xia@bham.ac.uk</a><br>
 🌐 <a href="https://www.birmingham.ac.uk/staff/profiles/biosciences/xia-pu" target="_blank">University Profile</a>
 </p>
 
@@ -31,9 +32,10 @@ CERJ Theme Leader – Combatting Pollution
 <a href="https://orcid.org/0000-0002-1186-378X" target="_blank">ORCID</a> |
 <a href="https://www.researchgate.net/profile/Pu-Xia-4?ev=hdr_xprf" target="_blank">ResearchGate</a>
 </p>
+
 </td>
-
-
+</tr>
+</table>
 
 <hr style="border: 1px solid #bbb;">
 
