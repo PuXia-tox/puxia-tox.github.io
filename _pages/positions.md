@@ -2,7 +2,7 @@
 layout: archive
 title: "Open Positions"
 permalink: /positions/
-author_profile: true
+author_profile: false
 ---
 
 # Join the SHARP Lab
