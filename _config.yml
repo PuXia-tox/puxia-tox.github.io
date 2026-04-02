@@ -23,7 +23,7 @@ repository               : "PuXia-tox/puxia-tox.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/XP's portrait.jpg"
+  avatar           : "images/portrait.jpg"
   name             : "Pu Xia"
   pronouns         : "he/him"
   bio              : "I am an Assistant Professor in the School of Biosciences at the University of Birmingham and CERJ theme leader of Commatting Pollution."
@@ -50,13 +50,11 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
