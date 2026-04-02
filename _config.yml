@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Sharp Research Group"
+title                    : "SHARP Research Group"
 title_separator          : "-"
 name                     : &name "Pu Xia"
 description              : &description "I am an Assistant Professor in the School of Biosciences at the University of Birmingham and CERJ theme leader of Combatting Pollution."   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "/images/profile.png"
   name             : "Pu Xia"
   pronouns         : "he/him"
-  bio              : "I am an Assistant Professor in the School of Biosciences at the University of Birmingham and CERJ theme leader of Combatting Pollution."
+  bio              : "Assistant Professor in the School of Biosciences at the University of Birmingham and CERJ theme leader of Combatting Pollution."
   location         : "Biringham, UK"
   employer         : "University of Birmingham"
   uri              : "https://www.birmingham.ac.uk/staff/profiles/biosciences/xia-pu"
