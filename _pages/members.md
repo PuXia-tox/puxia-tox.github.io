@@ -18,7 +18,7 @@ Research interests: systems toxicology, comparative behaviour, NAMs, Omics2AOP
 <table width="100%">
 <tr>
 <td width="28%">
-<img src="/images/member_matthew.jpg" width="240">
+<!-- <img src="/images/member_matthew.jpg" width="240"> -->
 </td>
 <td width="72%" valign="top">
 
@@ -39,7 +39,7 @@ Email: mxb1245@student.bham.ac.uk
 <table width="100%">
 <tr>
 <td width="28%">
-<img src="/images/member_xing.jpg" width="240">
+<!-- <img src="/images/member_xing.jpg" width="240"> -->
 </td>
 <td width="72%" valign="top">
 
@@ -60,7 +60,7 @@ Email: xxf566@student.bham.ac.uk
 <table width="100%">
 <tr>
 <td width="28%">
-<img src="/images/member_xing.jpg" width="240">
+<!-- <img src="/images/member_xing.jpg" width="240"> -->
 </td>
 <td width="72%" valign="top">
 
@@ -81,7 +81,7 @@ Email: ocm117@student.bham.ac.uk
 <table width="100%">
 <tr>
 <td width="28%">
-<img src="/images/member_xing.jpg" width="240">
+<!-- <img src="/images/member_xing.jpg" width="240"> -->
 </td>
 <td width="72%" valign="top">
 
@@ -101,7 +101,7 @@ Email: zxt410@student.bham.ac.uk
 
 ## Alumni - Visiting scholars and students
 - Siwen Feng (冯思文) 2025-2026 PhD student (Beijing University of Chinese Medicine)
-- Shanshan Chen （陈姗姗）2024-2025 PhD student (Shanxi University)
-- Wenqi Chen （陈文其）2024-2025 PhD student (Shanxi University)
+- Shanshan Chen（陈姗姗）2024-2025 PhD student (Shanxi University)
+- Wenqi Chen（陈文其）2024-2025 PhD student (Shanxi University)
 - Youjin Zhou (周佑瑾) (2023-2024) MSc Tox student (University of Birmingham)
 
