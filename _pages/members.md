@@ -26,7 +26,7 @@ School of Biosciences, University of Birmingham<br>
 Email: <a href="mailto:p.xia@bham.ac.uk">p.xia@bham.ac.uk</a>
 </p>
 
-<p style="font-size: 18px; margin: 6px 0;">
+<p style="font-size: 18px; margin: 22px 0;">
 <a href="https://www.birmingham.ac.uk/staff/profiles/biosciences/xia-pu" target="_blank">University Profile</a> |
 <a href="https://scholar.google.com/citations?user=D41a8SkAAAAJ&hl=zh-CN" target="_blank">Google Scholar</a> |
 <a href="https://orcid.org/0000-0002-1186-378X" target="_blank">ORCID</a> |
@@ -34,7 +34,7 @@ Email: <a href="mailto:p.xia@bham.ac.uk">p.xia@bham.ac.uk</a>
 </p>
 
 <p style="font-size: 18px; margin: 6px 0;">
-📄 <a href="/files/Pu_Xia_CV.pdf" target="_blank">CV</a>
+📄 <a href="/files/Pu_Xia_CV.pdf" target="_blank">Dr. Xia's CV</a>
 </p>
 </td>
 </tr>
