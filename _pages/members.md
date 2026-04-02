@@ -43,12 +43,9 @@ Focus: computational toxicology, transcriptomics, BlueBEAR workflows
 
 ---
 
-## Visiting Students and Alumni
-### Siwen Feng
-PhD student (Beijing University of Chinese Medicine)
-Focus: computational toxicology, transcriptomics, BlueBEAR workflows
-
-### Shanshan Chen
-PhD student (Shanxi University)
-Focus: computational toxicology, transcriptomics, BlueBEAR workflows
+## Alumni - Visiting scholars and students
+- Siwen Feng (冯思文) 2025-2026 PhD student (Beijing University of Chinese Medicine)
+- Shanshan Chen （陈姗姗）2024-2025 PhD student (Shanxi University)
+- Wenqi Chen （陈文其）2024-2025 PhD student (Shanxi University)
+- Youjin Zhou (周佑瑾) (2023-2024) MSc Tox student (University of Birmingham)
 
