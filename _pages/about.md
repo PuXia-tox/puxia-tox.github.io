@@ -1,6 +1,8 @@
 ---
 permalink: /
 title: "Systems Hazard Assessment & Risk Prediction (SHARP)"
+layout: splash
+classes: wide
 author_profile: false
 redirect_from: 
   - /about/
