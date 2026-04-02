@@ -2,6 +2,8 @@
 layout: archive
 title: "Gallery"
 permalink: /gallery/
+layout: splash
+classes: wide
 author_profile: false
 ---
 
