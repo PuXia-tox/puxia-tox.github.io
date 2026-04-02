@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "XP's portrait.jpg"
+  avatar           : "profile.png"
   name             : "Pu Xia"
   pronouns         : "he/him"
   bio              : "I am an Assistant Professor in the School of Biosciences at the University of Birmingham and CERJ theme leader of Commatting Pollution."
