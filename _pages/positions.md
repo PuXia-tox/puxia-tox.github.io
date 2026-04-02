@@ -2,6 +2,8 @@
 layout: archive
 title: "Open Positions"
 permalink: /positions/
+layout: splash
+classes: wide
 author_profile: false
 ---
 
