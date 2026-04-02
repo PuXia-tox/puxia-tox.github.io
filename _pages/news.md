@@ -6,8 +6,9 @@ classes: wide
 author_profile: false
 ---
 
-<h1 align="center">News</h1>
-
+<div style="text-align:center; font-size:2.2em; font-weight:700; margin-bottom:30px;">
+News
+</div>
 
 <hr style="border: 1px solid #bbb;">
 
