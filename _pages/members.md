@@ -1,16 +1,14 @@
 ---
-layout: archive
-title: "Members"
+layout: splash
+title: ""
 permalink: /members/
-author_profile: true
+classes: wide
+author_profile: false
 ---
 
----
-layout: archive
-title: "Members"
-permalink: /members/
-author_profile: true
----
+<div style="text-align:center; font-size:2.2em; font-weight:700; margin-bottom:30px;">
+Members
+</div>
 
 <hr style="border: 1px solid #bbb;">
 
