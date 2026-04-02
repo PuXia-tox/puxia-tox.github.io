@@ -1,11 +1,12 @@
 ---
-layout: archive
-title: "News"
-permalink: /news/
 layout: splash
+title: ""
+permalink: /news/
 classes: wide
 author_profile: false
 ---
+
+<h1 align="center">News</h1>
 
 
 <hr style="border: 1px solid #bbb;">
