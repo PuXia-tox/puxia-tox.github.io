@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "Team Members"
+title: "Members"
 permalink: /members/
 author_profile: true
 ---
 
-# SHARP Tox Lab Members
 
 <h1>Principal Investigator</h1>
 
