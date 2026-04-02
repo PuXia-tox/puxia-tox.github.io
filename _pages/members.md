@@ -7,15 +7,30 @@ author_profile: true
 
 # SHARP Tox Lab Members
 
-## Principal Investigator
-### Pu Xia
-Assistant Professor, University of Birmingham  
-Research interests: systems toxicology, comparative behaviour, NAMs, Omics2AOP
+<h1>Principal Investigator</h1>
+
+<hr>
+
+<table width="100%">
+<tr valign="top">
+<td width="28%">
+<img src="/images/member_matthew.jpg" width="240">
+</td>
+<td width="72%" valign="top">
+<h2>Pu Xia</h2>
+<p>Assistant Professor (2023-)</p>
+<p>School of Biosciences, University of Birmingham</p>
+<p>Email: p.xia@bham.ac.uk</p>
+</td>
+</tr>
+</table>
+
+<hr>
 
 ---
 
-## Current Students
-<h1>Current PhD Students</h1>
+
+<h1>Current Students</h1>
 
 <hr>
 
