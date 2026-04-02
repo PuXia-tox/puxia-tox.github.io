@@ -14,7 +14,7 @@ A glimpse of our research life, conferences, collaborations, and lab moments.
 ## First Group Gathering and Farewell to Siwen
 
 <p align="center">
-<img src="/images/Group Photo-1.jpg" width="300">
+<img src="/images/Group Photo-1.jpg" width="1000">
 </p>
 
 ---
