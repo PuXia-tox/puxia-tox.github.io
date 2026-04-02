@@ -15,19 +15,87 @@ Research interests: systems toxicology, comparative behaviour, NAMs, Omics2AOP
 ---
 
 ## Current PhD Students
-### Matthew Barnard
-PhD student
+<table width="100%">
+<tr>
+<td width="28%">
+<img src="/images/member_matthew.jpg" width="240">
+</td>
+<td width="72%" valign="top">
+
+## Matthew Barnard
+**PhD Student**  
+
+Research: aquatic ecotoxicology, behavioural toxicology
+
+Email: mxb1245@student.bham.ac.uk  
+
+</td>
+</tr>
+</table>
+
+---
 
 
-### Xing Fan
-PhD student
+<table width="100%">
+<tr>
+<td width="28%">
+<img src="/images/member_xing.jpg" width="240">
+</td>
+<td width="72%" valign="top">
 
-### Oscar Milward
-PhD student
+## Xing Fan
+**PhD Student**  
+
+Research: computational toxicology, high-throughput transcriptomics
+
+Email: xxf566@student.bham.ac.uk 
+
+</td>
+</tr>
+</table>
+
+---
 
 
-### Zheng Tang
-PhD student  
+<table width="100%">
+<tr>
+<td width="28%">
+<img src="/images/member_xing.jpg" width="240">
+</td>
+<td width="72%" valign="top">
+
+## Oscar Milward
+**PhD Student**  
+
+Research: computational toxicology, qAOP, cross-species extrapolation
+
+Email: ocm117@student.bham.ac.uk 
+
+</td>
+</tr>
+</table>
+
+---
+
+
+<table width="100%">
+<tr>
+<td width="28%">
+<img src="/images/member_xing.jpg" width="240">
+</td>
+<td width="72%" valign="top">
+
+## Zheng Tang
+**PhD Student**  
+
+Research: organ-on-chip, neurotoxicology
+
+Email: zxt410@student.bham.ac.uk
+
+</td>
+</tr>
+</table>
+
 
 ---
 
