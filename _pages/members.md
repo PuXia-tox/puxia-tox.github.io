@@ -14,7 +14,7 @@ author_profile: true
 <table width="100%">
 <tr valign="top">
 <td width="28%">
-<img src="/images/member_matthew.jpg" width="240">
+<img src="/images/portrait.jpg" width="240">
 </td>
 <td width="72%" valign="top">
 <h2>Pu Xia</h2>
