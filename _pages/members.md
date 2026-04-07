@@ -6,6 +6,13 @@ classes: wide
 author_profile: false
 ---
 
+<style>
+h2 {
+  border-bottom: none !important;
+  padding-bottom: 0 !important;
+}
+</style>
+
 <div style="text-align:center; font-size:2.2em; font-weight:700; margin-bottom:30px;">
 Members
 </div>
