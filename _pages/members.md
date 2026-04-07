@@ -7,9 +7,10 @@ author_profile: false
 ---
 
 <style>
-h2 {
+table h2 {
   border-bottom: none !important;
   padding-bottom: 0 !important;
+  margin-bottom: 24px !important;
 }
 </style>
 
