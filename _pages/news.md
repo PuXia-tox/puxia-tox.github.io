@@ -21,6 +21,10 @@ Matthew and Pu attended the SETAC Europe 36th Annual Meeting in Maastricht.
 ### 2026.5.3-15
 Matthew visited EMBL Heidelberg to assist with Daphnia behavior screening for the PrecisionTox project.
 
+<hr style="border: 1px solid #bbb;">
+
+### 2026.5.3-15
+Pu attended the UoB-NJU Joint Research Centre kick-off workshop in Nanjing.
 
 <hr style="border: 1px solid #bbb;">
 
