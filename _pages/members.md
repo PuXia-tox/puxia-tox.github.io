@@ -130,11 +130,84 @@ Email: <a href="mailto:p.xia@bham.ac.uk">p.xia@bham.ac.uk</a>
 
 <hr style="border: 1px solid #bbb;">
 
-<h2 style="font-size: 30px;">Alumni – Visiting Scholars and Students</h2>
-<ul style="font-size: 18px; line-height: 1.8;">
-  <li>Siwen Feng (2025–2026), PhD student, Beijing University of Chinese Medicine</li>
-  <li>Wenxin Liu (2025), PhD student, Ghent University</li>
-  <li>Shanshan Chen (2024–2025), PhD student, Shanxi University</li>
-  <li>Wenqi Chen (2024–2025), PhD student, Shanxi University</li>
-  <li>Youjin Zhou (2023–2024), MSc Toxicology, University of Birmingham</li>
-</ul>
+
+
+
+<h2 style="font-size: 30px; margin-top: 30px;">Alumni – Visiting Scholars and Students</h2>
+
+<hr style="border: 1px solid #bbb;">
+
+<table width="100%" style="border: none;">
+<tr valign="top">
+<td width="26%" style="border: none;">
+<img src="/images/Siwen.jpg" width="300">
+</td>
+<td width="74%" style="border: none;">
+<h2 style="font-size: 34px; margin-top: 0;">Siwen Feng</h2>
+<p style="font-size: 18px;">Visiting PhD Student (2025–2026)</p>
+<p style="font-size: 18px;">Beijing University of Chinese Medicine</p>
+</td>
+</tr>
+</table>
+
+<hr style="border: 1px solid #bbb;">
+
+<table width="100%" style="border: none;">
+<tr valign="top">
+<td width="26%" style="border: none;">
+<img src="/images/Wenxin.jpg" width="300">
+</td>
+<td width="74%" style="border: none;">
+<h2 style="font-size: 34px; margin-top: 0;">Wenxin Liu</h2>
+<p style="font-size: 18px;">Visiting PhD Student (2025)</p>
+<p style="font-size: 18px;">Ghent University</p>
+</td>
+</tr>
+</table>
+
+<hr style="border: 1px solid #bbb;">
+
+<table width="100%" style="border: none;">
+<tr valign="top">
+<td width="26%" style="border: none;">
+<img src="/images/Shanshan.jpg" width="300">
+</td>
+<td width="74%" style="border: none;">
+<h2 style="font-size: 34px; margin-top: 0;">Shanshan Chen</h2>
+<p style="font-size: 18px;">Visiting PhD Student (2024–2025)</p>
+<p style="font-size: 18px;">Shanxi University</p>
+</td>
+</tr>
+</table>
+
+<hr style="border: 1px solid #bbb;">
+
+<table width="100%" style="border: none;">
+<tr valign="top">
+<td width="26%" style="border: none;">
+<img src="/images/Wenqi.jpg" width="300">
+</td>
+<td width="74%" style="border: none;">
+<h2 style="font-size: 34px; margin-top: 0;">Wenqi Chen</h2>
+<p style="font-size: 18px;">Visiting PhD Student (2024–2025)</p>
+<p style="font-size: 18px;">Shanxi University</p>
+</td>
+</tr>
+</table>
+
+<hr style="border: 1px solid #bbb;">
+
+<table width="100%" style="border: none;">
+<tr valign="top">
+<td width="26%" style="border: none;">
+<img src="/images/Youjin.jpg" width="300">
+</td>
+<td width="74%" style="border: none;">
+<h2 style="font-size: 34px; margin-top: 0;">Youjin Zhou</h2>
+<p style="font-size: 18px;">MSc Toxicology Student (2023–2024)</p>
+<p style="font-size: 18px;">University of Birmingham</p>
+</td>
+</tr>
+</table>
+
+<hr style="border: 1px solid #bbb;">
