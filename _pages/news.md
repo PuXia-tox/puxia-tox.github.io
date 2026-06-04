@@ -10,6 +10,12 @@ author_profile: false
 News
 </div>
 
+
+<hr style="border: 1px solid #bbb;">
+
+### 2026.6.4
+Zheng attended the Leicester-CERJ collaboration in Leicester.
+
 <hr style="border: 1px solid #bbb;">
 
 ### 2026.5.17-21
