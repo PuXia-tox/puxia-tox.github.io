@@ -12,6 +12,17 @@ News
 
 <hr style="border: 1px solid #bbb;">
 
+### 2026.5.17-21
+Matthew and Pu attended the SETAC Europe 36th Annual Meeting in Maastricht.
+
+### 2026.5.3-15
+Matthew visited EMBL Heidelberg to assist with Daphnia behavior screening for the PrecisionTox project.
+
+### 2026.4.27-29
+Matthew, Starry and Oscar attended the BTS Annual Congress 2026 in Solihull.
+
+<hr style="border: 1px solid #bbb;">
+
 ### 2026.4.2
 Oscar Milward joined the lab as a PhD student.
 
