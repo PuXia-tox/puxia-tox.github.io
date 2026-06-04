@@ -41,9 +41,6 @@ Email: <a href="mailto:p.xia@bham.ac.uk">p.xia@bham.ac.uk</a>
 <a href="https://www.researchgate.net/profile/Pu-Xia-4?ev=hdr_xprf" target="_blank">ResearchGate</a>
 </p>
 
-<p style="font-size: 18px; margin: 6px 0;">
-📄 <a href="/files/Pu Xia_CV.pdf" target="_blank">Dr. Xia's CV</a>
-</p>
 </td>
 </tr>
 </table>
