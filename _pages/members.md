@@ -111,10 +111,9 @@ Email: <a href="mailto:p.xia@bham.ac.uk">p.xia@bham.ac.uk</a>
 
 <hr style="border: 1px solid #bbb;">
 
-
-<h2 style="text-align:center; font-size:2.2em; font-weight:700; margin-bottom:30px;">
+<div style="text-align:center; font-size:2.2em; font-weight:700; margin-bottom:30px;">
     Alumni – Visiting Scholars and Students
-</h2>
+</div>
 
 <hr style="border: 1px solid #bbb;">
 
