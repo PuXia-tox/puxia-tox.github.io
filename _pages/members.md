@@ -126,7 +126,6 @@ Email: <a href="mailto:p.xia@bham.ac.uk">p.xia@bham.ac.uk</a>
 <h2 style="font-size: 34px; margin-top: 0;">Benjamin Hickey</h2>
 <p style="font-size: 18px;">MSci Biochemistry Student (2025–2026)</p>
 <p style="font-size: 18px;">Research: Molting-disruption screening in Daphnia</p>
-<p style="font-size: 18px;">Email: <a href="mailto:bxh237@student.bham.ac.uk">bxh237@student.bham.ac.uk</a></p>
 </td>
 </tr>
 </table>
