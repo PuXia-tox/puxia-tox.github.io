@@ -111,6 +111,13 @@ Email: <a href="mailto:p.xia@bham.ac.uk">p.xia@bham.ac.uk</a>
 
 <hr style="border: 1px solid #bbb;">
 
+
+
+
+<h2 style="font-size: 30px; margin-top: 30px;">Alumni – Visiting Scholars and Students</h2>
+
+<hr style="border: 1px solid #bbb;">
+
 <table width="100%" style="border: none;">
 <tr valign="top">
 <td width="26%" style="border: none;">
@@ -118,19 +125,12 @@ Email: <a href="mailto:p.xia@bham.ac.uk">p.xia@bham.ac.uk</a>
 </td>
 <td width="74%" style="border: none;">
 <h2 style="font-size: 34px; margin-top: 0;">Benjamin Hickey</h2>
-<p style="font-size: 18px;">MSci Biochemistry Student (2025–)</p>
+<p style="font-size: 18px;">MSci Biochemistry Student (2025–2026)</p>
 <p style="font-size: 18px;">Research: Molting-disruption screening in Daphnia</p>
 <p style="font-size: 18px;">Email: <a href="mailto:bxh237@student.bham.ac.uk">bxh237@student.bham.ac.uk</a></p>
 </td>
 </tr>
 </table>
-
-<hr style="border: 1px solid #bbb;">
-
-
-
-
-<h2 style="font-size: 30px; margin-top: 30px;">Alumni – Visiting Scholars and Students</h2>
 
 <hr style="border: 1px solid #bbb;">
 
