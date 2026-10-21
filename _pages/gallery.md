@@ -16,7 +16,7 @@ Gallery
 <h2 style="text-align:center;">Starry, Mat, and Pu at SETAC Asia-Pacific 15th Biennial Meeting in Tsukuba, Japan</h2>
 
 <p align="center">
-<img src="/images/Group Photo-2.jpg" width="700">
+<img src="/images/Group%20Photo-2.jpg" width="700">
 </p>
 
 <hr style="border: 2px solid #bbb;">
