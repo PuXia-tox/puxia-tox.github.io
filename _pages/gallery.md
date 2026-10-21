@@ -11,7 +11,7 @@ Gallery
 </div>
 
 
-<h2 style="text-align:center;">Starry, Mat, and Oscar at the BTS Annual Congress 2026, Solihull</h2>
+<h2 style="text-align:center;">Starry, Mat, and Pu at SETAC Asia-Pacific 15th Biennial Meeting, Tsukuba, Japan</h2>
 
 <p align="center">
 <img src="/images/Group Photo-2.jpg" width="700">
