@@ -13,6 +13,12 @@ News
 
 <hr style="border: 1px solid #bbb;">
 
+### 2026.9.20-23
+Matthew, Starry and Pu attended the SETAC Asia-Pacific Meeting in Tsukuba, Japan.
+
+
+<hr style="border: 1px solid #bbb;">
+
 ### 2026.6.4
 Zheng attended the Leicester-CERJ collaboration in Leicester.
 
