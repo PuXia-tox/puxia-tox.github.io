@@ -50,7 +50,7 @@ for Toxicity Prediction
 </td>
 
 <td align="center" width="25%">
-<img src="/images/Cover 5.jpg" height="500"><br>
+<img src="/images/Cover 5.jpeg" height="500"><br>
 <div style="height: 80px;">
 Climate-Informed<br>
 One Health Toxicology
