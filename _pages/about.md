@@ -17,7 +17,7 @@ redirect_from:
 <table>
 <tr valign="top">
 
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="/images/Cover 1.jpg" height="500"><br>
 <div style="height: 80px;">
 ES&T Front Cover<br>
@@ -25,7 +25,7 @@ ES&T Front Cover<br>
 </div>
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="/images/Cover 2.jpg" height="500"><br>
 <div style="height: 80px;">
 Functional Genomics Screening<br>
@@ -33,7 +33,7 @@ of Air Pollutants
 </div>
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="/images/Cover 3.jpg" height="500"><br>
 <div style="height: 80px;">
 Transcriptomics Assessment<br>
@@ -41,7 +41,7 @@ of Mixtures
 </div>
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="/images/Cover 4.jpg" height="500"><br>
 <div style="height: 80px;">
 Network Modeling<br>
@@ -49,7 +49,7 @@ for Toxicity Prediction
 </div>
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="/images/Cover 5.jpg" height="500"><br>
 <div style="height: 80px;">
 Climate-Informed<br>
