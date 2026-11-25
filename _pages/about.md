@@ -72,7 +72,7 @@ redirect_from:
 
 
 <td align="center" width="20%">
-  <a href="https://pubs.acs.org/esthag/article-abstract/60/11/8326/5083554/Network-Based-Assessment-of-Environmental?redirectedFrom=fulltext" rel="noopener">
+  <a href="https://pubs.acs.org/esthag/article-abstract/60/11/8326/5083554/Network-Based-Assessment-of-Environmental?redirectedFrom=fulltext" target="_blank" rel="noopener">
     <img src="/images/Cover 4.jpg" height="500" alt="Read the article on network modeling for toxicity prediction">
   </a><br>
   <div style="height: 80px;">
