@@ -40,7 +40,7 @@ redirect_from:
 
 <td align="center" width="20%">
   <a href="https://pubs.acs.org/esthag/article/50/19/10682/782928/Functional-Toxicogenomic-Assessment-of-Triclosan" target="_blank" rel="noopener">
-    <img src="/images/Cover 1.jpg" height="500" alt="Read the ES&amp;T front cover article">
+    <img src="/images/Cover 1.jpg" height="500" alt="Read the ES&T front cover article">
   </a><br>
   <div style="height: 80px;">
     ES&amp;T Front Cover<br>
