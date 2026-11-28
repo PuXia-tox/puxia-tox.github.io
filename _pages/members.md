@@ -117,6 +117,21 @@ Email: <a href="mailto:p.xia@bham.ac.uk">p.xia@bham.ac.uk</a>
 
 <hr style="border: 1px solid #bbb;">
 
+
+<table width="100%" style="border: none;">
+<tr valign="top">
+<td width="26%" style="border: none;">
+<img src="/images/Ceylan.jpg" width="300">
+</td>
+<td width="74%" style="border: none;">
+<h2 style="font-size: 34px; margin-top: 0;">Ceylan Yilmaz</h2>
+<p style="font-size: 18px;">MSc Toxicology Student (2025–2026)</p>
+<p style="font-size: 18px;">Distinction</p>
+</td>
+</tr>
+</table>
+
+<hr style="border: 1px solid #bbb;">
 <table width="100%" style="border: none;">
 <tr valign="top">
 <td width="26%" style="border: none;">
