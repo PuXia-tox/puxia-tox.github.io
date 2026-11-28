@@ -121,7 +121,7 @@ Email: <a href="mailto:p.xia@bham.ac.uk">p.xia@bham.ac.uk</a>
 <table width="100%" style="border: none;">
 <tr valign="top">
 <td width="26%" style="border: none;">
-<img src="/images/Ceylan.jpg" width="300">
+<img src="/images/Ceylan.png" width="300">
 </td>
 <td width="74%" style="border: none;">
 <h2 style="font-size: 34px; margin-top: 0;">Ceylan Yilmaz</h2>
